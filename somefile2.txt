@@ -1,1 +1,1 @@
-somefile 2
+important method class variables
