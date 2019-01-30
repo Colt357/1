@@ -1,2 +1,9 @@
+
 razberis
-perezapisanue izm remote
+perezapisanue izm remote                           -                           otrabotalo
+poputka izm localno
+Some change to  izm must.txt local                 -                           otrabotalo
+
+
+
+because ispravljal conflict
