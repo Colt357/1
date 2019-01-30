@@ -4,6 +4,6 @@ perezapisanue izm remote                           -                           o
 poputka izm localno
 Some change to  izm must.txt local                 -                           otrabotalo
 
-
+peredelka posle commita -     indexirovanie NO NE COMMIT
 
 because ispravljal conflict
